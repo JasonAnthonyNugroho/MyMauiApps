@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!UKDW\\SMS 5\\Prog Mobile\\MyMauiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1495E4-4DA9-43D6-BFA3-7DD4A84D9167}|MyMauiApp\\MyMauiApp.csproj|d:\\!ukdw\\sms 5\\prog mobile\\mymauiapp\\mymauiapp\\mymauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE1495E4-4DA9-43D6-BFA3-7DD4A84D9167}|MyMauiApp\\MyMauiApp.csproj|solutionrelative:mymauiapp\\mymauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyMauiApp.csproj",
+              "DocumentMoniker": "D:\\!UKDW\\SMS 5\\Prog Mobile\\MyMauiApp\\MyMauiApp\\MyMauiApp.csproj",
+              "RelativeDocumentMoniker": "MyMauiApp\\MyMauiApp.csproj",
+              "ToolTip": "D:\\!UKDW\\SMS 5\\Prog Mobile\\MyMauiApp\\MyMauiApp\\MyMauiApp.csproj",
+              "RelativeToolTip": "MyMauiApp\\MyMauiApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T07:39:34.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
